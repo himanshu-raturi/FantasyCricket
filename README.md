@@ -130,7 +130,8 @@ python3 FantasyCricket.py
 
 ## Tools
 ### References
-* [Atom](https://atom.io/)
+* [PyQt](https://riverbankcomputing.com/software/pyqt/intro)
+* [Sublime Text](https://www.sublimetext.com/3)
 * [SqliteStudio](https://sqlitestudio.pl/index.rvt)
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
 * [Python](https://www.python.org/)
